@@ -24,6 +24,7 @@ const useStyles = makeStyles((theme) => ({
     textAlign: "center",
     width: "40%",
     margin: "auto",
+    marginTop: "5rem",
   },
   subTitle: {
     color: "white",
